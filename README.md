@@ -12,5 +12,5 @@ Question 3:
 Change the pixel value of the black and white image. Download the image from the runtime of Colab, and upload it to your GitHub repo. Then submit the GitHub repo link.
 
 
-
-[Answer 2](https://github.com/Anamikachow56/RGB-image/blob/e9470ad2cff1a416c9be7df46e42c6d630119e6e/download.png)
+[code]()
+[Image](https://github.com/Anamikachow56/structure-of-black-and-white-image/blob/2802f844df7b3c2a6bfcca6a64a1630b3baa54d9/gray-emoji.png)
